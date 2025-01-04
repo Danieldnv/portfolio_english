@@ -16,10 +16,18 @@ The research offers significant contributions to a wide range of applications. T
 
 # Default on the credit portfolio of individuals and legal entities in Brazil
 With the package that accesses data through the Central Bank of Brazil's API, I computed the monthly default rate for both individuals and corporations (please, check the definition) from 2011 to 2024. Utilizing ggplot2, I generated a graph and animated it to depict the dynamic changes in the rates over time.  
+<p align="center">
+  <img src="images/animated_plot_better.gif" width="50%"> 
+</p>  
 
-Definition according to the website of the Central Bank of Brazil: *Percentage of the National Financial System's loan portfolio with at least one installment more than 90 days overdue. This includes operations contracted in both the free credit and directed credit segments.* [Verify here](https://dadosabertos.bcb.gov.br/dataset/21083-inadimplencia-da-carteira-de-credito---pessoas-juridicas---total)  
+The Definition according to the website of the Central Bank of Brazil is: *Percentage of the National Financial System's loan portfolio with at least one installment more than 90 days overdue. This includes operations contracted in both the free credit and directed credit segments.* [Verify here](https://dadosabertos.bcb.gov.br/dataset/21083-inadimplencia-da-carteira-de-credito---pessoas-juridicas---total)  
 
 [Click here to access the code]()  
 
 # Closing prices of Tesla and Apple stocks
+
+
+<p align="center">
+  <img src="images/df6831ef-faf7-4f53-b3ac-21cd29a3d408.png" width="70%"> 
+</p>  
 
