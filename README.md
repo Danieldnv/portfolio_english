@@ -42,7 +42,7 @@ Additionally, I collected information about the ibovespa index and the US dollar
 </p>  
 
 <p align="center">
-  <img src="images/9171f09c-4e88-4e15-aeb7-385acc85a3ff.png" width="100%"> 
+  <img src="images/df038b54-5218-4829-abdc-59bac0a7caa6.png" width="100%"> 
 </p> 
 
 [Click here to access the code]()  
