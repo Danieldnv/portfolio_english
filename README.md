@@ -38,7 +38,7 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and Magazine Luiza's (one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.
 Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais), observing their performance and correlation during the same period.
 <p align="center">
-  <img src="images/411476a7-000f-44ad-81be-1db152b842b1.png" width="70%"> 
+  <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
 </p>  
 
 [Click here to access the code]()  
