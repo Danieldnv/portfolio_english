@@ -4,9 +4,9 @@ I have listed below a few projects I have completed using R, Python, and LaTeX. 
 
 # Exploring the PNADc  
  In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which surveys general characteristics of the Brazilian population, such as education, income, and labor. Using the obtained microdata, it is possible to calculate multiple variables and rates for the Brazilian economy. Among the various pieces of information I calculated are:  
-* Brazilian unemployment rate: 6,32%
-* Unemployment rate of the Recife Metropolitan Region: 11,81%
-* Average income of the brazilian population: 3267.7 reais, average income of the brazilian woman: 2817.6 reais, average income of the brazilian man: 3605.2 reais and the average income of the black woman in the state of Pernambuco: 2151.2 reais.
+* Brazilian unemployment rate: 6.32%
+* Unemployment rate in the Recife Metropolitan Region: 11.81%
+* The average income of the Brazilian population: 3,267.7 reais; average income of the Brazilian woman: 2,817.6 reais; average income of the Brazilian man: 3,605.2 reais; and the average income of the black woman in the state of Pernambuco: 2,151.2 reais.
 * The percentage of white women between the ages of 20 and 30 who are currently unemployed: 8,479%.
 * The racial composition of the Brazilian population (approximated values): 42% are white, 10% are black, 0.6% are asians, 46% are brown, 0.4% are indigenous, 0,01% ignored. (The definition of each race is according to the Brazillian institute of Geography and Statistics).
 
