@@ -1,6 +1,6 @@
 # Portfolio - Daniel Nunes Vital
 ### nunesvitald@gmail.com
-I have listed below a few projects I have undertaken using R, Python, and LaTeX. *More projects can be found [here]().*
+I have listed below a few projects I have completed using R, Python, and LaTeX. *More projects can be found [here]().*
 
 # Exploring the PNADc  
 In this project, I used the PNADcIBGE package to colect data from the Continuous National Household Sample Survey (PNADc) which surveys general characteristics of the brazillian population, such as education, income and labor. Using the obtained microdata, it is possible to calculate multiple variables and rates for the brazilian economy. Among the various information I calculated, some are:  
