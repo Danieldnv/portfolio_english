@@ -36,13 +36,13 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 
 # MGLU3, dollar, and Ibovespa  
 In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and MGLU3 (a company called Magazine Luiza. It is one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.
-Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais), observing their performance and correlation during the same period.
+Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais). An important point to highlight is the performance following the adjustment of the SELIC rate (Brazil's basic interest rate): The dollar did not respond as expected to a rise in interest rate, indicating that the country's fiscal and political situation is suppressing the effects of the SELIC adjustments. Subsequently, a 1% increase occurred in December 2024, and yet, the dollar reached historic highs.
 <p align="center">
   <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
 </p>  
 
 <p align="center">
-  <img src="images/427ddc08-7b08-4559-8e2f-aa1f8c3ae506.png" width="100%"> 
+  <img src="images/9171f09c-4e88-4e15-aeb7-385acc85a3ff.png" width="100%"> 
 </p> 
 
 [Click here to access the code]()  
