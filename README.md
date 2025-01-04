@@ -35,7 +35,7 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 [Click here to access the code]()  
 
 # MGLU3, dollar, and Ibovespa  
-In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and Magazine Luiza's (one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.
+In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and MGLU3 (a company called Magazine Luiza. It is one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.
 Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais), observing their performance and correlation during the same period.
 <p align="center">
   <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
@@ -47,5 +47,11 @@ Additionally, I collected information about the ibovespa index and the US dollar
 While not directly related do data science , with the skills I developed while creating these projects, I can provide a great contribution with professional LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is great for writing  math symbols, equations, plotting graphics, and text, with a technical caracteristic.  
 
 ## Calculus - LaTeX  
+<p align="center">
+  <img src="images/Captura de tela 2025-01-04 133542.png" width="50%"> 
+</p>  
 
 ## Statistics - LaTeX
+<p align="center">
+  <img src="images/Captura de tela 2025-01-04 133437.png" width="40%"> 
+</p>  
