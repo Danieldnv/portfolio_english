@@ -7,9 +7,8 @@ I have listed below a few projects I have completed using R, Python, and LaTeX. 
 * Brazilian unemployment rate: 6.32%
 * Unemployment rate in the Recife Metropolitan Region: 11.81%
 * The average income of the Brazilian population: 3,267.7 reais; average income of the Brazilian woman: 2,817.6 reais; average income of the Brazilian man: 3,605.2 reais; and the average income of the black woman in the state of Pernambuco: 2,151.2 reais.
-* The percentage of white women between the ages of 20 and 30 who are currently unemployed: 8,479%.
-* The racial composition of the Brazilian population (approximated values): 42% are white, 10% are black, 0.6% are asians, 46% are brown, 0.4% are indigenous, 0,01% ignored. (The definition of each race is according to the Brazillian institute of Geography and Statistics).
-
+* The percentage of white women between the ages of 20 and 30 who are currently unemployed: 8.479%.
+* The racial composition of the Brazilian population (approximated values): 42% are white; 10% are black; 0.6% are Asian; 46% are brown; 0.4% are indigenous; and 0.01% ignored (The definition of each race is according to the Brazilian Institute of Geography and Statistics).
 *All the information is from the third quarter of 2024*  
 The research offers significant contributions to a wide range of applications. The derived data enables a thorough assessment of the country's economic state. With the package I used, it is possible to select specific variables from the survey without the need to download all the information collected by the IBGE, however, it still is a large quantity of data to work with. 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/pnad_portfolio_en.R)  
