@@ -29,7 +29,7 @@ Utilizing the "yfinance" library, I collected information about Tesla and Apple 
 It can be observed that, despite a significant drop during COVID-19, the prices of both stocks demonstrated a strong recovery.
 
 <p align="center">
-  <img src="images/df6831ef-faf7-4f53-b3ac-21cd29a3d408.png" width="70%"> 
+  <img src="images/64ccf5c5-06d2-4960-9183-5b563b4b5b5c.png" width="70%"> 
 </p>  
 
 [Click here to access the code]()  
@@ -38,7 +38,7 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 In this project, also using "yfinance", I conducted an analysis of Magazine Luiza's stock price and visualised the results in a graph, which includes the closing prices and its moving average.
 Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais), observing their performance and correlation during the same period.
 <p align="center">
-  <img src="images/df6831ef-faf7-4f53-b3ac-21cd29a3d408.png" width="70%"> 
+  <img src="images/52b626c7-fb0a-4689-a33c-30623c91d6ed.png" width="70%"> 
 </p>  
 
 [Click here to access the code]()  
