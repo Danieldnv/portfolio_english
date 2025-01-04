@@ -41,6 +41,10 @@ Additionally, I collected information about the ibovespa index and the US dollar
   <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
 </p>  
 
+<p align="center">
+  <img src="images/b35ae555-4c26-4c25-ad8b-2378f89cfaa5.png" width="90%"> 
+</p> 
+
 [Click here to access the code]()  
 
 # LaTeX  
