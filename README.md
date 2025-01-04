@@ -24,10 +24,28 @@ The Definition according to the website of the Central Bank of Brazil is: *Perce
 
 [Click here to access the code]()  
 
-# Closing prices of Tesla and Apple stocks
-
+# Closing prices of Tesla and Apple stocks  
+Utilizing the "yfinance" library, I collected information about Tesla and Apple stocks, through Yahoo Finance's APIs. From the obtained data, I separeted the closing prices and generated a visual representation, illustrating, for both stocks, the main impact of the COVID-19 pandemic on the prices and the highest price of both stocks between 01/01/2019 and 10/01/2024. 
+It can be observed that, despite a significant drop during COVID-19, the prices of both stocks demonstrated a strong recovery.
 
 <p align="center">
   <img src="images/df6831ef-faf7-4f53-b3ac-21cd29a3d408.png" width="70%"> 
 </p>  
 
+[Click here to access the code]()  
+
+# MGLU3, dollar, and Ibovespa  
+In this project, also using "yfinance", I conducted an analysis of Magazine Luiza's stock price and visualised the results in a graph, which includes the closing prices and its moving average.
+Additionally, I collected information about the ibovespa index and the US dollar (quoted in reais), observing their performance and correlation during the same period.
+<p align="center">
+  <img src="images/df6831ef-faf7-4f53-b3ac-21cd29a3d408.png" width="70%"> 
+</p>  
+
+[Click here to access the code]()  
+
+# LaTeX  
+While not directly related do data science , with the skills I developed while creating these projects, I can provide a great contribution with professional LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is great for writing  math symbols, equations, plotting graphics, and text, with a technical caracteristic.  
+
+## Calculus - LaTeX  
+
+## Statistics - LaTeX
