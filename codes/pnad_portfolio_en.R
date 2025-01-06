@@ -9,14 +9,13 @@ library(PNADcIBGE)
 library(survey)
 library(convey)
 
-#Selecting the desired variables from the survey
-
+#Selecting the relevant variables for this project
 variaveis<-c('UF','Capital','RM_RIDE', 'VD4001', "VD4002", 'VD4004A')
 
 #Colecting the data
 pnadcbr<-get_pnadc(year=2024,quarter=3,vars=variaveis)
 
-##Downloading it, for the environment to become less crowded
+##Downloading the data I just collected 
 pnadcbr<-readRDS('C:/Users/nunes/rsetwd/pnadc3tri24.rds')
 
 #Calculating brazil's unemployment rate
@@ -55,7 +54,7 @@ variaveis_selecionadas<- c('UF', 'Capital','RM_RIDE','V2007','V2009', 'V2010',
 ### VD4012 = Social security contribution (1 = contributor; 2 = non-contributor).
 ### VD4020 = monthly income.
 
-################## I saved the data in RDS so the environment is less crowded
+################## I saved the data in RDS 
 #pnadcbr324<- get_pnadc(year=2024, quarter=3, vars=variaveis_selecionadas)
 
 pnadcbr324<- readRDS('C:/Users/nunes/rsetwd/pnadcommaisvariaveis.rds')
@@ -63,11 +62,11 @@ pnadcbr324<- readRDS('C:/Users/nunes/rsetwd/pnadcommaisvariaveis.rds')
 totalrenda <- svytotal(~VD4020, pnadcbr324, na.rm=T)
 totalrenda
 
-########## Total of inhabitants by sex
+########## Total number of inhabitants by sex
 totalsexo<-svytotal(~V2007, pnadcbr324, nar.rm=T)
 totalsexo
 
-##########Total of inhabitants by sex and race
+##########Total number of inhabitants by sex and race
 totalsexoeraca<- svytotal(~interaction(V2007, V2010), pnadcbr324, na.rm=T)
 totalsexoeraca
 
@@ -89,7 +88,8 @@ quantisrenda<- svyquantile(~VD4020, pnadcbr324 , quantiles = c(.1,.25,.5,.75,.9,
                                                                .99), na.rm=T)
 quantisrenda
 
-#################### Now, using the subset function
+#### Next, I will utilize the subset function.This function allows me to intersect information and compute indicators for specific age groups, races and/or sexes. 
+# It also enables me to separate data for specific states and cities.
 
 ########## Average income for women in Brazil
 
@@ -109,12 +109,12 @@ txdeshom<- svyratio(~VD4002=='Pessoas desocupadas', ~VD4001=='Pessoas na força 
                     subset(pnadcbr324, V2007=='Homem'), na.rm=T)
 txdeshom
 
-########## Income Quantile for men
+########## Average income Quantile for men
 quantisrendahom<- svyquantile(~VD4020, subset(pnadcbr324, V2007=='Homem'),
                               quantiles=c(.1,.25,.5,.75,.9,.99), na.rm=T)
 quantisrendahom
 
-########## Income Quantile for women
+########## Average income Quantile for women
 quantisrendamul<- svyquantile(~VD4020, subset(pnadcbr324, V2007=='Mulher'),
                               quantiles=c(.1,.25,.50,.75,.9,.99) ,na.rm=T)
 quantisrendamul
@@ -149,9 +149,11 @@ txmulbranca
 
 ######## Average income of White and Black men
 
+# White men
 rendahombranco<- svymean(~VD4020, subset(pnadcbr324, V2007=='Homem' & V2010=='Branca'), na.rm=T)
 rendahombranco
 
+#Black men
 rendahompreto<- svymean(~VD4020, subset(pnadcbr324, V2007=='Homem' & V2010=='Preta'),
                         na.rm=T)
 rendahompreto
