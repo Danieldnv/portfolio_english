@@ -43,6 +43,12 @@ In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ET
 </p>  
 
 
+
+<p align="center">
+  <img src="images/63821aaf-6749-4a28-b957-6e7a5b07c4ee.png" width="100%"> 
+</p>  
+
+
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/mglu3_ETF_mov.ipynb)  
 
 # LaTeX  
