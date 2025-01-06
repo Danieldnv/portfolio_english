@@ -1,9 +1,9 @@
 # Portfolio - Daniel Nunes Vital
 ### nunesvitald@gmail.com
-I have listed below a few projects I have completed using R, Python, and LaTeX. *More projects can be found [here]().*
+I have listed below a few projects that I have completed using R, Python, and LaTeX. *More projects can be found [here](https://github.com/Danieldnv/portfolio_english/tree/main/other_codes).*
 
 # Exploring the PNADc  
- In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which surveys general characteristics of the Brazilian population, such as education, income, and labor. Using the obtained microdata, it is possible to calculate multiple variables and rates for the Brazilian economy. Among the various pieces of information I calculated are:  
+ In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which surveys general characteristics of the Brazilian population, such as education, income, and employment. By Applying functions from the "survey" and "convey" packages on the obtained microdata, it is possible to calculate numerous indicators and rates for the Brazilian economy. Among the various pieces of information I calculated are:  
 * Brazilian unemployment rate: 6.32%
 * Unemployment rate in the Recife Metropolitan Region: 11.81%
 * The average income of the Brazilian population: 3,267.7 reais; average income of the Brazilian woman: 2,817.6 reais; average income of the Brazilian man: 3,605.2 reais; and the average income of the black woman in the state of Pernambuco: 2,151.2 reais.
@@ -15,7 +15,7 @@ The research offers significant contributions to a wide range of applications. T
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/pnad_portfolio_en.R)  
 
 # Default on the credit portfolio of individuals and legal entities in Brazil
-With the package that accesses data through the Central Bank of Brazil's API, I computed the monthly default rate for both individuals and corporations (please check the definition) from 2011 to 2024. Utilizing ggplot2, I generated a graph and animated it to depict the dynamic changes in the rates over time.  
+With the package that accesses data through the Central Bank of Brazil's API, I collected the monthly default rate for both individuals and corporations (please check the definition) from 2011 to 2024. Utilizing ggplot2, I generated a graph and animated it to depict the dynamic changes in the rates over time.  
 <p align="center">
   <img src="images/animated_plot_better.gif" width="50%"> 
 </p>  
@@ -36,8 +36,8 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 
 # MGLU3, dollar, and Ibovespa  
 
-In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and MGLU3 (a company called Magazine Luiza. It is one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.
-Additionally, I collected information about the Ibovespa index and the US dollar (quoted in reais). An important point to highlight is the performance following the adjustment of the SELIC rate (Brazil's basic interest rate): the dollar did not respond as expected to a rise in interest rate, indicating that the country's fiscal and political situation is suppressing the effects of the SELIC adjustments. Subsequently, a 1% increase occurred in December 2024, and yet, the dollar reached historic highs.
+In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and MGLU3 (a company called Magazine Luiza. It is one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.  
+Additionally, I collected information about the Ibovespa index and the US dollar (quoted in reais). An important point to highlight is the performance following the adjustment of the SELIC rate (Brazil's basic interest rate): the dollar did not respond as expected to a rise in the interest rate, indicating that the country's fiscal and political situation is suppressing the effects of the SELIC adjustments. Subsequently, in December 2024, the monetary policy committee raised the interest rate by 1%, yet the dollar reached historic highs.
 <p align="center">
   <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
 </p>  
