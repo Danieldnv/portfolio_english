@@ -34,14 +34,14 @@ It can be observed that, despite a significant drop during COVID-19, the prices 
 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/tesla_apple.ipynb)  
 
-# MGLU3 and BOVA11  
+# MGLU3, BOVA11, Dollar and Ibovespa
 
 In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ETF that tracks the Ibovespa index) and MGLU3 (a company called Magazine Luiza. It is one of the main retailers in Brazil), visualizing the results in a graph, which includes the closing prices and Magazine Luiza's moving average.  
+Additionally, I collected information about the Ibovespa index and the US dollar (quoted in reais). An important point to highlight is the performance following the adjustment of the SELIC rate (Brazil's basic interest rate): the dollar did not respond as expected to a rise in the interest rate, indicating that the country's fiscal and political situation is suppressing the effects of the SELIC adjustments. Subsequently, in December 2024, the monetary policy committee raised the interest rate by 1%, yet the dollar reached historic highs.
 
 <p align="center">
   <img src="images/fe304f73-6fe9-44ff-97f8-81afeed51e6f.png" width="70%"> 
 </p>  
-
 
 
 <p align="center">
@@ -49,7 +49,7 @@ In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ET
 </p>  
 
 
-[Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/mglu3_ETF_mov.ipynb)  
+[Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/stock_dolar_ibov.ipynb)  
 
 # LaTeX  
 While not directly related to data science, the skills I developed while creating these projects enable me to provide significant contributions through LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is excellent for writing mathematical symbols, equations, plotting graphics, and text with technical characteristics.  
