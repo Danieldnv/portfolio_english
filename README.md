@@ -3,7 +3,7 @@
 I have listed below a few projects that I have completed using R, Python, and LaTeX. *More projects can be found [here](https://github.com/Danieldnv/portfolio_english/tree/main/other_codes).*
 
 # Exploring the PNADc  
- In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which surveys general characteristics of the Brazilian population, such as education, income, and employment. By Applying functions from the "survey" and "convey" packages on the obtained microdata, it is possible to calculate numerous indicators and rates for the Brazilian economy. Among the various pieces of information I calculated are:  
+ In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which surveys general characteristics of the Brazilian population, such as education, income, and labour. By Applying functions from the "survey" and "convey" packages on the obtained microdata, it is possible to calculate numerous indicators and rates for the Brazilian economy. Among the various pieces of information I calculated are:  
 * Brazilian unemployment rate: 6.32%
 * Unemployment rate in the Recife Metropolitan Region: 11.81%
 * The average income of the Brazilian population: 3,267.7 reais; average income of the Brazilian woman: 2,817.6 reais; average income of the Brazilian man: 3,605.2 reais; and the average income of the black woman in the state of Pernambuco: 2,151.2 reais.
