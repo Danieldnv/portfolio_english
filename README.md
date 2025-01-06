@@ -43,7 +43,7 @@ In this project, also using "yfinance", I conducted an analysis of BOVA11 (an ET
 </p>  
 
 
-[Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/stock_dolar_ibov.ipynb)  
+[Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/mglu3_ETF_mov.ipynb)  
 
 # LaTeX  
 While not directly related to data science, the skills I developed while creating these projects enable me to provide significant contributions through LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is excellent for writing mathematical symbols, equations, plotting graphics, and text with technical characteristics.  
