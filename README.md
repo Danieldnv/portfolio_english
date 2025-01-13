@@ -65,14 +65,10 @@ Samples of my work are presented below. These documents were created for persona
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/calculustex.tex)  
 
 ## Statistics - LaTeX  
- 
-$$
-\large P(24 \leq x \leq 30) = \int_{24}^{30} f(x) \ dx = \int_{24}^{30} \frac{1}{b-a} \ dx = \int_{24}^{30} \frac{1}{30-0} \ dx 
-$$  
 
-$$
-\large \int_{24}^{30} \frac{1}{30-0} \ dx = \left. \frac{x}{30} \right|_{24}^{30} = \frac{30}{30} - \frac{24}{30} = \boxed{\frac{1}{5}}
-$$
+<p align="center">
+  <img src="images/Captura de tela 2025-01-04 133437.png" width="50%"> 
+</p> 
 
 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/statisticstex.tex)  
