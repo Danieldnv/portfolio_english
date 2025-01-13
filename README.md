@@ -53,7 +53,9 @@ Additionally, I collected information about the Ibovespa index and the US dollar
 
 # LaTeX  
 While not directly related to data science, the skills I developed while creating these projects enable me to provide significant contributions through LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is excellent for writing mathematical symbols, equations, plotting graphics, and text with technical characteristics.  
-Among the packages I used in these documents are: amsmath, amssymb, graphicx, pgfplots, and tikz.
+Among the packages I used in these documents are: amsmath, amssymb, graphicx, pgfplots, and tikz.  
+
+Samples of my work are presented below. These documents were created for personal use during exam preparation and served as summaries of the studied content.
 
 ## Calculus - LaTeX  
 <p align="center">
@@ -62,9 +64,15 @@ Among the packages I used in these documents are: amsmath, amssymb, graphicx, pg
 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/calculustex.tex)  
 
-## Statistics - LaTeX
-<p align="center">
-  <img src="images/Captura de tela 2025-01-04 133437.png" width="40%"> 
-</p>  
+## Statistics - LaTeX  
+ 
+$$
+\large P(24 \leq x \leq 30) = \int_{24}^{30} f(x) \ dx = \int_{24}^{30} \frac{1}{b-a} \ dx = \int_{24}^{30} \frac{1}{30-0} \ dx 
+$$  
+
+$$
+\large \int_{24}^{30} \frac{1}{30-0} \ dx = \left. \frac{x}{30} \right|_{24}^{30} = \frac{30}{30} - \frac{24}{30} = \boxed{\frac{1}{5}}
+$$
+
 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/statisticstex.tex)  
