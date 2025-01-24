@@ -25,7 +25,7 @@ The definition according to the website of the Central Bank of Brazil is: *Perce
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/animated_plot_portfolio.R)  
 
 # Closing prices of Tesla and Apple stocks  
-Utilizing the "yfinance" library, I collected information about Tesla and Apple stocks through Yahoo Finance's APIs. From the obtained data, I separated the closing prices and generated a visual representation, illustrating, for both stocks, the main impact of the COVID-19 pandemic on the prices and the highest price of both stocks between 01/01/2019 and 10/01/2024. 
+Utilizing the "yfinance" library, I collected information about Tesla and Apple stocks through Yahoo Finance's APIs. From the obtained data, I separated the closing prices and generated a visual representation, illustrating, for both stocks, the main impact of the COVID-19 pandemic on the prices, and the highest price between 01/01/2019 and 10/01/2024 
 It can be observed that, despite a significant drop during COVID-19, the prices of both stocks demonstrated a strong recovery.
 
 <p align="center">
