@@ -52,7 +52,7 @@ Additionally, I collected information about the Ibovespa index and the US dollar
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/stock_dolar_ibov2.ipynb)  
 
 # LaTeX  
-While not directly related to data science, the skills I developed while creating these projects enable me to provide significant contributions through LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is excellent for writing mathematical symbols, equations, plotting graphics, and text with technical characteristics.  
+While not directly related to data science, the skills that I developed while creating these projects enable me to provide significant contributions through LaTeX documents, which are important for producing high-quality reports for clients or internal company use. This programming language is excellent for writing mathematical symbols, equations, plotting graphics, and text with technical characteristics.  
 Among the packages I used in these documents are: amsmath, amssymb, graphicx, pgfplots, and tikz.  
 
 Samples of my work are presented below. These documents were created for personal use during exam preparation and served as summaries of the studied content.
