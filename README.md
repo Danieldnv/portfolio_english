@@ -11,7 +11,7 @@ I have listed below a few projects that I have completed using R, Python, and La
 * The racial composition of the Brazilian population (approximated values): 42% are white; 10% are black; 0.6% are Asian; 46% are brown; 0.4% are indigenous; and 0.01% ignored (The definition of each race is according to the Brazilian Institute of Geography and Statistics).  
 
 *All the information is from the third quarter of 2024*  
-The research offers significant contributions to a wide range of applications. The derived data enables a thorough assessment of the country's economic state. With the package I used, it is possible to select specific variables from the survey without the need to download all the information collected by the IBGE; however, it still is a large quantity of data to work with. 
+The research offers significant contributions to a wide range of applications. The derived data enables a thorough assessment of the country's economic state. 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/pnad_portfolio_en.R)  
 
 # Default on the credit portfolio of individuals and legal entities in Brazil
