@@ -14,16 +14,6 @@ I have listed below a few projects that I have completed using R, Python, and La
 The research offers significant contributions to a wide range of applications. The derived data enables a thorough assessment of the country's economic state. 
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/pnad_portfolio_en.R)  
 
-# Default on the credit portfolio of individuals and legal entities in Brazil
-With the package that accesses data through the Central Bank of Brazil's API, I collected the monthly default rate for both individuals and corporations (please check the definition) from 2011 to 2024. Utilizing ggplot2, I generated a graph and animated it to depict the dynamic changes in the rates over time.  
-<p align="center">
-  <img src="images/animated_plot_better.gif" width="50%"> 
-</p>  
-
-The definition according to the website of the Central Bank of Brazil is: *Percentage of the National Financial System's loan portfolio with at least one installment more than 90 days overdue. This includes operations contracted in both the free credit and directed credit segments.* [Verify here](https://dadosabertos.bcb.gov.br/dataset/21083-inadimplencia-da-carteira-de-credito---pessoas-juridicas---total)  
-
-[Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/animated_plot_portfolio.R)  
-
 # Closing prices of Tesla and Apple stocks  
 Utilizing the "yfinance" library, I collected information about Tesla and Apple stocks through Yahoo Finance's APIs. From the obtained data, I separated the closing prices and generated a visual representation, illustrating, for both stocks, the main impact of the COVID-19 pandemic on the prices, and the highest price between 01/01/2019 and 10/01/2024 
 It can be observed that, despite a significant drop during COVID-19, the prices of both stocks demonstrated a strong recovery.
