@@ -11,7 +11,7 @@ By applying functions from the survey and convey packages to the obtained microd
 * Unemployment rate of white women aged 20-30: 8.479%.
 * The racial composition of the Brazilian population (approximated values): 42% are white; 10% are black; 0.6% Asian; 46% brown; 0.4% indigenous; and 0.01% ignored (The definition of each race is according to the Brazilian Institute of Geography and Statistics).  
 
-*All the information is from the third quarter of 2024*  
+*All data refer to the third quarter of 2024*  
 This analysis provides valuable insights for understanding Brazil’s labor market and income distribution, supporting socioeconomic research and policy assessment.
 [Click here to access the code](https://github.com/Danieldnv/portfolio_english/blob/main/codes/pnad_portfolio_en.R)  
 
