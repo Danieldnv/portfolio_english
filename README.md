@@ -2,7 +2,7 @@
 ### nunesvitald@gmail.com
 I have listed below a few projects that I have completed using R, Python, and LaTeX. *More projects can be found [here](https://github.com/Danieldnv).*
 
-# Exploring the PNADc  
+# Exploring PNADc microdata 
 In this project, I used the PNADcIBGE package to collect data from the Continuous National Household Sample Survey (PNADc), which investigates general characteristics of the Brazilian population, such as education, income, and employment.
 By applying functions from the survey and convey packages to the obtained microdata, I was able to calculate several key socioeconomic indicators for the Brazilian economy. Among the main results are:  
 * Brazilian unemployment rate: 6.4%
